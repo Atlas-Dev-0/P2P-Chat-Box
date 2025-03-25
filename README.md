@@ -1,6 +1,5 @@
-# P2P-Chat-Box
+# P2P-Chat-Box 🖥
 
-## Overview
 A **Single-File Peer-to-Peer Chatbox** using a **Local Area Network (LAN)** for communication, written in **C language**. This terminal-based application allows users on the same network to join a chatroom, exchange messages, and see who is online in real-time. It's a lightweight solution for local chatting without the need for centralized servers.
 
 ## Features
